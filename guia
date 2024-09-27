@@ -1,0 +1,5 @@
+### Instalando as dependências
+2. pip install -r requirements.txt
+
+### INICIANDO
+3.python app.py
